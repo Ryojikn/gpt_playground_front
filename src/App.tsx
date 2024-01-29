@@ -16,10 +16,12 @@ export function App() {
                 <span className="text-sm text-muted-foreground">desenvolvido com 💜</span>
 
                 <Separator orientation="vertical" className="h-6" />
+                <a href="https://github.com/Ryojikn/gpt_playground_front" target="_blank">
                 <Button variant="outline">
                     <Github className="w-4 h-4 mr-2" />
                     Github
                 </Button>
+                </a>
             </div>
         </div>
 
